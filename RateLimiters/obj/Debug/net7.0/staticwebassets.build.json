@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ExhDPmYQVLSRWoazlBaobVdEA8awsm7MuPKbIDw3zx8=",
+  "Source": "RateLimiters",
+  "BasePath": "_content/RateLimiters",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
